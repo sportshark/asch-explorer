@@ -65,16 +65,6 @@ bower install
 
 `grunt compile`
 
-#### Market Watcher
- Candlestick data needs to be initialized prior to starting Asch Explorer. During runtime candlestick data is updated automatically.
-
-To build candlestick data for each exchange run:
-
-`grunt candles:build`
-
-To update candlestick data manually run after initialization:
-
-`grunt candles:update`
 
 ## Configuration
 
